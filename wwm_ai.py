@@ -11,7 +11,6 @@ import qrcode
 from io import BytesIO
 from PIL import Image
 import matplotlib.pyplot as plt
-import pyttsx3
 from twilio.rest import Client
 
 # Voice assistant
