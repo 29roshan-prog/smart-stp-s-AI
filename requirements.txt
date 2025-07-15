@@ -6,3 +6,4 @@ Pillow
 qrcode
 twilio
 joblib
+scikit-learn
